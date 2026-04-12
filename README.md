@@ -1,4 +1,4 @@
-# otl-noNpc
+# otl-nonpc
 
 A minimalistic FiveM script to completly remove all NPCs, AI traffic and dispatch services from your server.
 
@@ -9,7 +9,7 @@ A minimalistic FiveM script to completly remove all NPCs, AI traffic and dispatc
 * **No Parked Cars:** Disables all parked vehicle spawns and generators.
 * **No Dispatch:** Disables all 15 AI dispatch services (Police, EMS, Fire).
 * **No AI Cops:** Prevents random police patrols and scenarios from spawning.
-* **Clear Environment:** Removes garbage trucks and random boats.
+* **Clear Environment:** Removes garbage trucks and random boats and trains.
 
 ---
 
